@@ -1,0 +1,41 @@
+_repo: Check-and-Checkmate_32837
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Beecham, Tom
+    alias: Beecham, Thomas A.
+    birthdate: 1926
+    deathdate: 2000
+    gutenberg_agent_id: '34284'
+    url: http://www.gutenberg.org/2009/agents/34284
+covers:
+- cover_type: archival
+  image_path: 32837-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Miller, Walter M.
+    aliases:
+    - Miller, Walter Michael
+    - Miller, W. M. (Walter M.)
+    birthdate: 1923
+    deathdate: 1996
+    gutenberg_agent_id: '33738'
+    url: http://www.gutenberg.org/2009/agents/33738
+    wikipedia: http://en.wikipedia.org/wiki/Walter_M._Miller,_Jr.
+description: In a world where the Cold War never ended, American president John Smith
+  XVI--who has been selected rather than elected to the office--dares to re-open contact
+  with the East after forty years of the Big Silence. A game of masks ensues.
+gutenberg_issued: '2010-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32837'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Check and Checkmate
+url: http://www.gutenberg.org/ebooks/32837
